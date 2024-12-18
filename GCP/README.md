@@ -1,0 +1,1 @@
+Personal notes of [Databricks documentation | GCP](https://docs.gcp.databricks.com/en/index.html)

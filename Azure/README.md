@@ -1,0 +1,1 @@
+Personal notes of [Databricks documentation | Azure](https://learn.microsoft.com/en-us/azure/databricks/)
