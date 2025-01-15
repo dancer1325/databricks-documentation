@@ -1,7 +1,13 @@
 * Get started
   * TODO:
-* Introduction
-  * TODO:
+* [Introduction](introduction.md)
+  * [Lakehouse](lakehouse.md)
+    * TODO:
+  * Apache spark
+    * TODO:
+  * [What's Delta?](introduction.delta-comparison.md)
+  * [Concepts](getting-started.concepts.md)
+  * [Architecture](getting-started.overview.md)
 * DatabricksIQ
   * TODO:
 * Database objects
@@ -10,6 +16,7 @@
   * TODO:
 * Connect to compute
   * TODO:
+  * [Photon](compute.photon.md)
 * Discover data
   * TODO:
 * Query data
@@ -22,7 +29,7 @@
   * TODO:
 * Transform data
   * TODO:
-* Schedule and orchestrate workflows
+* [Schedule and orchestrate workflows](jobs.md)
   * TODO:
 * Read with external systems
   * TODO:
@@ -32,13 +39,16 @@
   * TODO:
 * Data engineering
   * TODO:
+  * [Delta Live Tables (DLT)](delta-live-tables.md)
+    * TODO:
+  * TODO:
 * AI and machine learning
   * TODO:
 * Generative AI agent tutorial
   * TODO:
 * Business intelligence
   * TODO:
-* Data warehousing
+* [Data warehousing](sql.md)
   * TODO:
 * Notebooks
   * TODO:
@@ -53,6 +63,8 @@
 * Security & compliance 
   * TODO:
 * Data governance (Unity Catalog)
+  * [Unity Catalog](data-governance.unity-catalog.md)
+    * TODO:
   * TODO:
 * Lakehouse architecture
   * TODO:
