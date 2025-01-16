@@ -23,6 +23,11 @@
   * TODO:
 * Ingest data
   * TODO:
+  * [Add data UI](ingestion.file-upload.md)
+    * TODO:
+    * [Upload files | Unity Catalog volume](ingestion.file-upload.upload-to-volume.md)
+    * TODO:
+  * TODO:
 * Explore data
   * TODO:
 * Work with files
