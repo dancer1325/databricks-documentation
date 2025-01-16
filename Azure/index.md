@@ -16,6 +16,13 @@
   * TODO:
 * [Connect to compute](compute.md)
   * TODO:
+  * All-purpose & jobs compute
+    * TODO:
+    * [Init scripts](init-scripts.md)
+      * [Cluster-scoped init scripts](init-scripts.cluster-scoped.md)
+      * [Global init scripts](init-scripts.global.md)
+      * TODO:
+  * TODO:
   * [Photon](compute.photon.md)
 * Discover data
   * TODO:
