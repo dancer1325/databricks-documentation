@@ -14,7 +14,7 @@
   * TODO:
 * Connect to data sources
   * TODO:
-* Connect to compute
+* [Connect to compute](compute.md)
   * TODO:
   * [Photon](compute.photon.md)
 * Discover data
