@@ -62,6 +62,7 @@
   * TODO:
   * Compute policies
     * [Create and manage compute policies](admin.clusters.policies.md)
+    * [Compute policy reference](admin.clusters.policy-definition.md)
     * TODO:
   * TODO:
 * Security & compliance 
