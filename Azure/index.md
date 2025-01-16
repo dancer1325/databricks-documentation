@@ -60,6 +60,10 @@
   * TODO:
 * Account & workspace administration
   * TODO:
+  * Compute policies
+    * [Create and manage compute policies](admin.clusters.policies.md)
+    * TODO:
+  * TODO:
 * Security & compliance 
   * TODO:
 * Data governance (Unity Catalog)
