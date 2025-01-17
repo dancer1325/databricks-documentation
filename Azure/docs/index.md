@@ -3,6 +3,8 @@
 * [Introduction](introduction.md)
   * [Lakehouse](lakehouse.md)
     * TODO:
+    * [Medallion architecture](lakehouse.medallion.md)
+    * TODO:
   * Apache spark
     * TODO:
   * [What's Delta?](introduction.delta-comparison.md)
