@@ -18,9 +18,13 @@
   * TODO:
   * All-purpose & jobs compute
     * TODO:
+    * [Compute configuration reference](compute.configure.md)
+    * TODO:
     * [Init scripts](init-scripts.md)
       * [Cluster-scoped init scripts](init-scripts.cluster-scoped.md)
       * [Global init scripts](init-scripts.global.md)
+      * TODO:
+      * [Init script logging](init-scripts.logs.md)
       * TODO:
   * TODO:
   * [Photon](compute.photon.md)
