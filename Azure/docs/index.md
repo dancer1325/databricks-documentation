@@ -28,6 +28,8 @@
       * TODO:
       * [Init script logging](init-scripts.logs.md)
       * TODO:
+  * [SQL warehouses](compute.sql-warehouse.md)
+    * TODO:
   * TODO:
   * [Photon](compute.photon.md)
 * Discover data
@@ -77,6 +79,11 @@
 * Technology partners
   * TODO:
 * Account & workspace administration
+  * TODO:
+  * [Databricks SQL admin settings](admin.sql.md)
+    * [SQL warehouse types](sql-warehouse.warehouse-types.md)
+    * [Enable serverless SQL warehouses](admin.sql.serverless.md)
+    * TODO:
   * TODO:
   * Compute policies
     * [Create and manage compute policies](admin.clusters.policies.md)
