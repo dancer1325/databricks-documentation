@@ -29,7 +29,19 @@
   * [Jobs](jobs.md)
     * TODO:
   * TODO:
-* AI and machine learning
+* [AI and machine learning](machine-learning.md)
+  * TODO:
+  * [Mosaic AI Gateway](ai-gateway.md)
+    * TODO:
+  * [Deploy models](machine-learning.model-serving.md)
+    * TODO:
+    * Foundation models
+      * TODO:
+      * [APIs](machine-learning.foundation-model-apis.md)
+        * TODO:
+    * TODO:
+  * [MLflow / gen AI agent & ML model lifecycle](mlflow.md)
+    * TODO:
   * TODO:
 * [Data warehousing](sql.md)
   * TODO:
